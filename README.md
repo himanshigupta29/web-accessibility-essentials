@@ -8,8 +8,8 @@
 * ✅ If you are setting any tabindex with value > 0, i.e. 1 or more than 1, then it adds an explicit tab or keyboard navigation order. **This must always be avoided**
   
 ## Make a non interactive element like **\<div>** interactive and accessible 
-1 Add tabindex attribute which make it accessible via tab and focussibble
-2 Add styles for :focus to the element
+1. Add tabindex attribute which make it accessible via tab and focussibble
+1. Add styles for :focus to the element
 
 ## Making a modal doalog accessible
 https://bitsofco.de/accessible-modal-dialog/
