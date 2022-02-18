@@ -13,3 +13,12 @@
 
 ## Making a modal doalog accessible
 https://bitsofco.de/accessible-modal-dialog/
+
+---
+
+### TODO points
+- add disabled focus info
+- disabled works in buttons , not in link
+- screen reader chrome plugin 
+- Aria-label
+- radio button navigation via arrows is a default browser behaviour
