@@ -11,14 +11,30 @@
 1. Add tabindex attribute which make it accessible via tab and focussibble
 1. Add styles for :focus to the element
 
-## Making a modal doalog accessible
-https://bitsofco.de/accessible-modal-dialog/
+## Tools for testing Accessibility
+- Any in-built tool present in the computer for Accessibility or any in-built scrren reader
+- Chrome extention like [Screen reader] (https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) can be added to browser and  used for testing Accessibility of a web ap like which elements are accessible via keywords and what is their description
+
 
 ---
 
+## Dropdown
+
+## Radio buttons
+
+## Checkbox
+
+
+
+## Disabled elements
+- When we add attribute disabled to an HTML element to make is disabled, then element automatically becomes inaccessible and non-focussible 
+Elements like `<button>`, `<input>`, `<select>`, `<option>`, `<textarea>` etc
+- Note `<a>` element does not support disabled attribute 
+
+
+## Making a modal doalog accessible
+https://bitsofco.de/accessible-modal-dialog/
+
 ### TODO points
-- add disabled focus info
-- disabled works in buttons , not in link
-- screen reader chrome plugin 
 - Aria-label
 - radio button navigation via arrows is a default browser behaviour
