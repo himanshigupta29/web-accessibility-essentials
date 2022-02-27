@@ -13,7 +13,7 @@
 
 ## Tools for testing Accessibility
 - Any in-built tool present in the computer for Accessibility or any in-built scrren reader
-- Chrome extention like [Screen reader] (https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) can be added to browser and  used for testing Accessibility of a web ap like which elements are accessible via keywords and what is their description
+- Chrome extention like [Screen reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) can be added to browser and  used for testing Accessibility of a web ap like which elements are accessible via keywords and what is their description
 
 
 ---
