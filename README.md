@@ -21,7 +21,12 @@
 ## Dropdown
 
 ## Radio buttons
-
+- Use Tab Key to focus to a group of readio options.
+- To navigate among the options use arrow keys ->. (Left arrow, right arrow, top arrow, bottom arrow keys)
+- This behaviour is the default behaviour for `<radio>` HTML element 
+- [Check demo](https://himanshigupta29.github.io/accessibility/radio-1.html)
+  
+  
 ## Checkbox
 
 
